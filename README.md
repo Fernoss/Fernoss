@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on whatever possibilities I may find. 
 - 📫 How to reach me @LinkdIn: https://www.linkedin.com/in/joonas-koskinen-416a50197/
 - Remember to checkout fernoss.github.io for html + css.
+- Newest published project created with React.js, Supabase as a database and published with Netlify. https://fernoss-todayilearned.netlify.app/
 
 <!---
 Fernoss/Fernoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
