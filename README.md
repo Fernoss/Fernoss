@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Fernoss, from Finland
-- 👀 I’m interested in coding/programming in general, Clouding and Cybersecurity.
-- 🌱 I’m currently learning Web Development through University (First year rookie) and Full-Stack Development through Udemy as a bonus.
+- 👀 I’m interested in automation, scripting and testing - in general Python🐍 as a language
+- 🚀 Keen to DevOps, cloud computing ☁️ and cybersecurity 👨🏻‍💻
+- 🌱 I’m currently focusing on Python
 - 💞️ I’m looking to collaborate on whatever possibilities I may find. 
 - 📫 How to reach me @LinkdIn: https://www.linkedin.com/in/joonas-koskinen-416a50197/
-- Newest published project created with React.js, Supabase as a database and published with Netlify. https://fernoss-todayilearned.netlify.app/
+  
 
 <!---
 Fernoss/Fernoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
