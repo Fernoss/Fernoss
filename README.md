@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fernoss, from Finland
-- 👀 I’m interested in automation, scripting and testing - in general Python🐍 as a language
+- 👀 I’m interested in automation, scripting and web development
 - 🚀 Keen to DevOps, cloud computing ☁️ and cybersecurity 👨🏻‍💻
-- 🌱 I’m currently focusing on Python
-- 💞️ I’m looking to collaborate on whatever possibilities I may find. 
+- 🌱 I’m currently focusing on completing ⚛️ FullStackOpen ⚛️
+- 📚 My progress is updated the repository "fs_open_course"
 - 📫 How to reach me @LinkdIn: https://www.linkedin.com/in/joonas-koskinen-416a50197/
   
 
