@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @Fernoss, from Finland
-- 👀 I’m interested in automation, scripting and web development
-- 🚀 Keen to DevOps, cloud computing ☁️ and cybersecurity 👨🏻‍💻
-- 🌱 I’m currently focusing on completing ⚛️ FullStackOpen ⚛️
-- 📚 My progress is updated in the repository named: "fs_open_course"
-- 📫 How to reach me @LinkdIn: https://www.linkedin.com/in/joonas-koskinen-416a50197/
+# Hello, World! 👋
+
+I'm [@Fernoss](https://www.linkedin.com/in/joonas-koskinen-416a50197/), a passionate developer and technology enthusiast from Finland. 👨‍💻
+
+## About Me
+
+- 🌐 Exploring the realms of automation, scripting, and big data.
+- 🚀 Keen on embracing DevOps, diving into cloud computing ☁️, and navigating the world of cybersecurity.
+- 🌱 Currently honing my skills in Python and on the path to mastering it. 🐍
+- 💼 Working as a service desk specialist, with a growing interest in data and machine learning.
+
+## Current Endeavors
+
+- 📚 Actively participating in the "100 Days of Code" challenge, sharpening my Python skills.
+- 🛠️ Working towards becoming a skilled data engineer, progressing through the DataCamp Data Engineer path.
+- 🚧 Building and sharing my coding journey in the [100-days-of-code repository](https://github.com/Fernoss/python_course).
+
+## Learning Journey
+
+- 📖 Currently immersed in the world of Python and data engineering.
+- 🌐 Exploring and applying my knowledge through the [FullStackOpen](https://github.com/Fernoss/fs_open_course) course - on hold
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joonas-koskinen-416a50197/) to discuss all things tech, share insights, or collaborate on exciting projects!
+
+Let's code, learn, and grow together! 🚀🌟
+
   
 
 <!---
