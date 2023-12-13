@@ -14,7 +14,7 @@ I'm [@Fernoss](https://www.linkedin.com/in/joonas-koskinen-416a50197/), a passio
 - 📚 Actively participating in the "100 Days of Code" challenge, sharpening my Python skills.
 - 🛠️ Working towards becoming a skilled data engineer, progressing through the IBM Data Engineer path.
 - 🚧 Building and sharing my coding journey in the [100-days-of-code repository](https://github.com/Fernoss/python_course).
-- (on hold) 🚧 Building and sharing my coding journey in the [100-days-of-code repository](https://github.com/Fernoss/python_course).
+- (on hold) 🛠️ Building and sharing my coding journey in the [100-days-of-code repository](https://github.com/Fernoss/python_course).
 
 ## Learning Journey
 
