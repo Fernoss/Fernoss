@@ -16,6 +16,9 @@ I'm [@Fernoss](https://www.linkedin.com/in/joonas-koskinen-416a50197/), a passio
 - 🚧 Building and sharing my coding journey in the [IBM Data Engineer](https://github.com/Fernoss/IBM_data_engineering)
 - (on hold) 🛠️ Building and sharing my coding journey in the [100-days-of-code repository](https://github.com/Fernoss/python_course).
 
+## Check out also
+- 💡 School project on ETL - using SQL Server, VS Community and PowerBI [ETL MSSQL school project](https://github.com/Fernoss/ETL_MSSQL_server_project)
+
 ## Learning Journey
 
 - 📖 Currently immersed in the world of Python and data engineering.
